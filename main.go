@@ -1,4 +1,4 @@
-package natstest
+package main
 
 import (
 	"github.com/nats-io/gnatsd/server"
